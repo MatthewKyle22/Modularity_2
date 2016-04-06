@@ -1,0 +1,165 @@
+.step6 img {
+    padding: 20px;
+}
+.step6b img{
+    float: left;
+    margin-right: 50px;
+}
+step6b p {
+    width: 50px;
+}
+
+.step7 img {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.step7b {
+    margin-top: 50px;
+    margin-bottom: 40px;
+ }
+ .step8 li {
+    list-style-type: none;
+    display: inline;
+ }
+.step9 {
+    background-color: #DF8080;
+    border-radius: 6px;
+    padding: 6px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    float: left;
+    margin: 3px;
+    display: inline-block;
+    cursor: default;
+    pointer-events: none;
+}
+.a9 {
+    padding: 25px 65px;
+    font-size: 25px;
+}
+.b9 {
+    padding: 10px 45px;
+    margin-top: 24px;
+}
+.c9 {
+    font-size: 13px;
+    padding: 5px 8px;
+    margin-top: 30px;
+}
+
+.step9b {
+    background-color: #DF8080;
+    border-radius: 6px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 3px;
+    display: inline-block;
+    border: none;
+    padding: 10px 35px;
+    cursor: default;
+    pointer-events: none;
+}
+
+.step10 {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+}
+.step10 li {
+    display: inline-block;
+}
+
+.step10 li a {
+    text-decoration: none;
+    color: white;
+    padding: 40px;
+    cursor: default;
+    pointer-events: none;
+}
+
+.boxing {
+    background-color: #DF8080;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.step11 li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.step11 li a{
+    color: #DF8080;
+    pointer-events: none;
+    text-decoration: none;
+}
+
+.num {
+    border-bottom: 3px solid #DF8080;
+    color: #DF8080;
+    pointer-events: none;
+    text-decoration: none;
+}
+.stupidnum {
+    border-bottom: 3px solid #D8D8D8;
+    color: #D8D8D8;
+}
+
+.step12 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  max-width: 245px;
+  margin-bottom: 50px;
+}
+.img12 {
+    padding-right: 10px;
+}
+
+box2 {
+    position: absolute;
+}    
+
+.time {
+    color: #D6D6D6;
+    font-size: 12px;
+}
+
+.tabs li {
+    display: inline-block;
+    padding: 4px;
+    font-size: 15px;
+}
+
+.tabs li a{
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nonselected {
+   border: 1px solid blue;
+   border-bottom: none;
+   border-radius: 7px 7px 0px 0px;
+   padding: 6px;
+}
+
+.selected {
+    border: 1px solid blue;
+    border-bottom: none;
+    border-radius: 7px 7px 0px 0px;
+    padding: 6px
+}
+
+.tabbox {
+    border: 1px solid #3562D4;
+    border-radius: 7px;
+    padding: 7px;
+}
